@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50f5d5dd-b2cc-486c-8bf3-332cdf5ba3e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XcdQNnQrDa9ZXZFGa06RtLBYl2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="JUnit.WaterBottleTest">
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.add_function_works" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="add_function_works" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.divide_function_works" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="divide_function_works" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaterBottleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WaterBottleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaterBottleTest.check_refill_function_fills_volume_to_100" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WaterBottleTest" />
+      <option name="METHOD_NAME" value="check_refill_function_fills_volume_to_100" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WaterBottleTest" />
+        <item itemvalue="JUnit.WaterBottleTest.check_refill_function_fills_volume_to_100" />
+        <item itemvalue="JUnit.CalculatorTest.divide_function_works" />
+        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="JUnit.CalculatorTest.add_function_works" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50f5d5dd-b2cc-486c-8bf3-332cdf5ba3e2" name="Default Changelist" comment="" />
+      <created>1581349299689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581349299689</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="319" y="86" width="800" height="717" key="#Intentions" timestamp="1581353692623">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="319" y="86" width="800" height="717" key="#Intentions/0.23.1440.810@0.23.1440.810" timestamp="1581353692623" />
+    <state x="493" y="287" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581351653488">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="493" y="287" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.810@0.23.1440.810" timestamp="1581351653488" />
+    <state width="1396" height="203" key="GridCell.Tab.0.bottom" timestamp="1581354229082">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1396" height="203" key="GridCell.Tab.0.bottom/0.23.1440.810@0.23.1440.810" timestamp="1581354229082" />
+    <state width="1396" height="203" key="GridCell.Tab.0.center" timestamp="1581354229081">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1396" height="203" key="GridCell.Tab.0.center/0.23.1440.810@0.23.1440.810" timestamp="1581354229081" />
+    <state width="1396" height="203" key="GridCell.Tab.0.left" timestamp="1581354229081">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1396" height="203" key="GridCell.Tab.0.left/0.23.1440.810@0.23.1440.810" timestamp="1581354229081" />
+    <state width="1396" height="203" key="GridCell.Tab.0.right" timestamp="1581354229082">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1396" height="203" key="GridCell.Tab.0.right/0.23.1440.810@0.23.1440.810" timestamp="1581354229082" />
+    <state x="113" y="124" key="new project wizard" timestamp="1581349441608">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="113" y="124" key="new project wizard/0.23.1440.810@0.23.1440.810" timestamp="1581349441608" />
+  </component>
+</project>
